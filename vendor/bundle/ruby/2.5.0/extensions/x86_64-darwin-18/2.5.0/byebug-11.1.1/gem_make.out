@@ -1,0 +1,19 @@
+current directory: /Users/nishiki/Desktop/railsbook/line-shopping/vendor/bundle/ruby/2.5.0/gems/byebug-11.1.1/ext/byebug
+/Users/nishiki/.rbenv/versions/2.5.1/bin/ruby -I /Users/nishiki/.rbenv/versions/2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20200309-58349-1bfx0uk.rb extconf.rb
+creating Makefile
+
+current directory: /Users/nishiki/Desktop/railsbook/line-shopping/vendor/bundle/ruby/2.5.0/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/nishiki/Desktop/railsbook/line-shopping/vendor/bundle/ruby/2.5.0/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/nishiki/Desktop/railsbook/line-shopping/vendor/bundle/ruby/2.5.0/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20200309-58349-1m38uls/byebug
